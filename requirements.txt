@@ -1,4 +1,4 @@
-catboost==1.2.8
+catboost==1.2.7
 deap==1.4.1
 lightgbm==4.3.0
 matplotlib==3.9.2

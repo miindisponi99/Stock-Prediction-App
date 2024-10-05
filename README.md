@@ -13,35 +13,6 @@ The **Stock Price Prediction App** is a comprehensive web application designed t
 - **Interactive Web Interface:** User-friendly interface built with Streamlit for seamless interaction.
 
 ## Repository Structure
-Stock-Prediction-App/
-├── app.py
-├── data/
-│   ├── init.py
-│   ├── data_fetcher.py
-│   ├── data_preprocessor.py
-│   └── feature_engineer.py
-├── models/
-│   ├── init.py
-│   ├── model_factory.py
-│   └── optimizers/
-│       ├── init.py
-│       ├── genetic_algorithm.py
-│       ├── grid_search.py
-│       ├── random_search.py
-│       └── bayesian_optimization.py
-├── evaluation/
-│   ├── init.py
-│   ├── model_evaluator.py
-│   └── backtester.py
-├── utils/
-│   ├── init.py
-│   ├── logger.py
-│   └── helpers.py
-├── requirements.txt
-├── README.md
-└── LICENSE
-
-### Directory Breakdown
 
 - **app.py:** The main Streamlit application script that ties all components together and serves the web interface.
   
